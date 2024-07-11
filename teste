@@ -1,0 +1,16 @@
+) Considerando os tipos de figuras geométricas como quadrado, triângulo, retângulo e círculo. Desenvolva uma classe em Java que armazene calcule a área total das figuras, essa classe deve ser capaz de imprimir a somatória das áreas no console.
+ Cada figura é representada por uma classe e suas propriedades devem ser armazenadas de acordo com o tipo da figura.
+ Utilize os conceitos de orientação a objetos como herança, polimorfismo e encapsulamento para resolver o problema.
+
+2) Um Condomínio é composto por diversos blocos de apartamentos e que cada bloco gerencia suas próprias receitas e despesas independentemente.
+Considerando que existem apartamentos de diversos tamanhos e que o valor do condomínio depende da fração ideal de cada um, calcule o valor do condomínio de cada apartamento.
+O valor do condomínio é calculado de acordo com a somatória das despesas do bloco.
+Desenvolva uma classe em Java que armazene os apartamentos e suas respectivas áreas e que seja capaz de calcular o valor do condomínio de cada apartamento de acordo com o total das despesas informadas.
+
+3) Implemente uma classe que representa uma estrutura de listas que execute as seguintes operações:
+
+Lista.reverse(). Exemplo {1, 2, 3, 4}.reverse() resultará em {4 ,3, 2, 1}
+Lista.filter(args): {1, 2, 3, 4}.filter(x => x%2 == 0) resultará em {2, 4}
+Lista.map(args): {a, b, c, d}.map(x => x.toUpperCase()) resultará em {A, B, C, D}
+
+Para a solução utilize apenas tipos primitivos, não utilize wrappers como  ArrayList, Collection, etc e operador Lambda.
